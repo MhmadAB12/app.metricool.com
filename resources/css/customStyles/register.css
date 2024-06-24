@@ -1,0 +1,105 @@
+.registerPage {
+	width: 100%;
+	height: 100% !important;
+    padding-top: 150px;
+    padding-bottom: 200px;
+	/* background: #72C9DA;
+	background: -moz-linear-gradient(top, #72C9DA 0%, #72C9DA 50%, rgba(255,255,255,1) 50%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #72C9DA), color-stop(50%, #72C9DA), color-stop(50%, rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(left, #72C9DA 0%, #5c90a8 100%); 
+	background: -o-linear-gradient(top, #72C9DA 0%, #72C9DA 50%, rgba(255,255,255,1) 50%);
+	background: -ms-linear-gradient(top, #72C9DA 0%, #72C9DA 50%, rgba(255,255,255,1) 50%);
+	background: linear-gradient(left, #72C9DA 0%, #72C9DA 50%, rgb(255, 255, 255) 50%); */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00c8a0', endColorstr='#ffffff', GradientType=0 );
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	/* background-position-y: -322px; */
+    font-family: 'Inter';
+}
+
+@media only screen and (max-width: 576px) {
+    .registerPage {
+        padding-top: 0px;
+    }
+}
+
+.registerTextblock {
+    display: inline-block;
+    vertical-align: top;
+    color: #000000;
+    font-weight: 700;
+    font-size: 18px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 25px; 
+    padding-bottom: 50px;
+}
+
+.registerTextblockHighlight {
+    color: #ee5b91;
+}
+
+.registerImageBlock {
+    width: 54px;
+    height: 54px;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    transform: rotate(180deg);
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 4px;
+    margin-left: 3px;
+}
+
+.registerImageBlockShadow {
+    position: relative;
+    width: 57px;
+    height: 58px;
+    background: linear-gradient(90deg, #589CBC 0%, #EE5B91 53.02%, #F5CA32 100%);
+    border-radius: 8px;
+    transform: rotate(180deg);
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.register-textbox-header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin: 40px 0px 15px 0px;
+}
+
+.register-textbox {
+    display: block;
+    width: 100%;
+    height: 50px;
+    padding: 0px 20px 0px 20px;
+    color: #666666;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 2px solid #666666;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.register-button-container {
+    margin: 45px 0px;
+}
+
+.buttonRegister {
+    color: #ffffff;
+    background-color: #000000;
+    border: 0px solid #000000;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight: bold; 
+    width: 100%; 
+    padding: 15px 20px;
+    font-size: 16px;
+}
+

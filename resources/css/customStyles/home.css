@@ -1,0 +1,107 @@
+
+.login-page-container {
+    font-family: 'Inter';
+    padding-right: 0;
+    padding-left: 0;
+    min-height: 100%;
+    background-color: #f5cA32;
+}
+
+.login-left-side-container {
+    padding-top: 80px;
+    padding-right: 0;
+    padding-left: 0;
+    height: 800px;
+}
+
+.login-form-container {
+    min-height: 100%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 200px;
+}
+
+.login-textbox-header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin: 40px 0px 15px 0px;
+}
+
+.login-textbox {
+    display: block;
+    width: 100%;
+    height: 50px;
+    padding: 0px 20px 0px 20px;
+    color: #666666;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 2px solid #666666;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.login-forgot-password {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-decoration-line: underline;
+    color: #000000;
+    margin-top: 16px;
+    text-align: right;
+}
+
+
+.login-page {
+    padding-right: 0;
+    padding-left: 0;
+	width: 100%;
+	height: 100% !important;
+	/* background: #72C9DA;
+	background: -moz-linear-gradient(top, #72C9DA 0%, #72C9DA 50%, rgba(255,255,255,1) 50%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #72C9DA), color-stop(50%, #72C9DA), color-stop(50%, rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(left, #72C9DA 0%, #5c90a8 100%); 
+	background: -o-linear-gradient(top, #72C9DA 0%, #72C9DA 50%, rgba(255,255,255,1) 50%);
+	background: -ms-linear-gradient(top, #72C9DA 0%, #72C9DA 50%, rgba(255,255,255,1) 50%);
+	background: linear-gradient(left, #72C9DA 0%, #72C9DA 50%, rgb(255, 255, 255) 50%); */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00c8a0', endColorstr='#ffffff', GradientType=0 );
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	/* background-position-y: -322px; */
+    font-family: 'Inter';
+}
+
+.login-button-container {
+    margin: 45px 0px;
+}
+
+.buttonLoginHome {
+    color: #ffffff;
+    background-color: #000000;
+    border: 0px solid #000000;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight: bold; 
+    width: 100%; 
+    padding: 15px 20px;
+    font-size: 16px;
+}
+
+.buttonLoginRemember {
+    color: #ffffff;
+    background-color: #666666;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 0px solid #000000;
+    font-weight: bold; 
+    padding: 5px 15px;
+    font-size: 16px;
+}
