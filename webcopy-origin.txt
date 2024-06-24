@@ -1,0 +1,464 @@
+Uri: https://app.metricool.com/
+File Name: C:\Downloaded Web Sites\app.metricool.com\index.htm
+Content Type: text/html
+
+Uri: https://static.metricool.com/resources/img/metricool-logo.svg
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\metricool-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.metricool.com/resources/img/metricool-squared-GRIS.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\metricool-squared-GRIS.png
+Content Type: image/png
+
+Uri: https://static.metricool.com/app-static-content/js/jquery-ui/v1.13.2/themes/black-tie/theme.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\jquery-ui\v1.13.2\themes\black-tie\theme.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/app-static-content/js/jquery-ui/v1.13.2/themes/black-tie/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\jquery-ui\v1.13.2\themes\black-tie\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/awesome-bootstrap-checkbox.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\awesome-bootstrap-checkbox.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/colorPicker.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\colorPicker.css
+Content Type: text/css
+
+Uri: https://app.metricool.com/resources/css/daterangepicker.css?v=20190812
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\daterangepicker.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/app-static-content/js/bootstrap-datetimepicker/v4.7.14/bootstrap-datetimepicker.css?v=20230203
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\bootstrap-datetimepicker\v4.7.14\bootstrap-datetimepicker.css
+Content Type: text/css
+
+Uri: https://app.metricool.com/resources/css/fullcalendar.min.css?v=20190101
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/fullcalendar.print.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\fullcalendar.print.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://app.metricool.com/resources/css/social-buttons.css?v=20230810
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\social-buttons.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/app-static-content/fonts/fontawesome-pro-6.4.2-web/css/all.min.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\fonts\fontawesome-pro-6.4.2-web\css\all.min.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/app-static-content/js/DataTables/v1.13.2/datatables.min.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\DataTables\v1.13.2\datatables.min.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/jqvmap.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\jqvmap.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/lib/mervick-emojionearea/emojionearea.min.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\lib\mervick-emojionearea\emojionearea.min.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/jquery.textcomplete.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\jquery.textcomplete.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/bootstrap-switch.min.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\bootstrap-switch.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900
+File Name: C:\Downloaded Web Sites\app.metricool.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:500,700,900
+File Name: C:\Downloaded Web Sites\app.metricool.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inter
+File Name: C:\Downloaded Web Sites\app.metricool.com\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito
+File Name: C:\Downloaded Web Sites\app.metricool.com\css-3.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/js/collagePlus/css/transitions.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\collagePlus\css\transitions.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/slick.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\slick.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/slick-theme.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/fonts/HelveticaNeue.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\HelveticaNeue.css
+Content Type: text/css
+
+Uri: https://app.metricool.com/resources/css/custom.css?v=20230125
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\custom.css
+Content Type: text/css
+
+Uri: https://static.metricool.com/resources/css/bootstrap-multiselect.css
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\bootstrap-multiselect.css
+Content Type: text/css
+
+Uri: https://app.metricool.com/resources/css/customStyles/home.css?v=20230411
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\customStyles\home.css
+Content Type: text/css
+
+Uri: https://metricool.com/
+File Name: C:\Downloaded Web Sites\app.metricool.com\index-1.htm
+Content Type: text/html
+
+Uri: https://app.metricool.com/register
+File Name: C:\Downloaded Web Sites\app.metricool.com\register.html
+Content Type: text/html
+
+Uri: https://app.metricool.com/resources/css/customStyles/loading.css?v=20230411
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\customStyles\loading.css
+Content Type: text/css
+
+Uri: https://app.metricool.com/resources/css/customStyles/footer.css?v=20230810
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\customStyles\footer.css
+Content Type: text/css
+
+Uri: https://www.facebook.com/metricool.es
+File Name: C:\Downloaded Web Sites\app.metricool.com\metricool.es.html
+Content Type: text/html
+
+Uri: https://www.tiktok.com/@metricool_es
+File Name: C:\Downloaded Web Sites\app.metricool.com\@metricool_es.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/@metricool_es
+File Name: C:\Downloaded Web Sites\app.metricool.com\@metricool_es-1.html
+Content Type: text/html
+
+Uri: https://www.pinterest.es/metricool_es/
+File Name: C:\Downloaded Web Sites\app.metricool.com\metricool_es\index.htm
+Content Type: text/html
+
+Uri: https://static.metricool.com/app-static-content/js/jquery/v3.6.3/jquery-3.6.3.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\jquery\v3.6.3\jquery-3.6.3.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/app-static-content/js/jquery/v3.6.3/jquery-migrate-3.4.0.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\jquery\v3.6.3\jquery-migrate-3.4.0.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/jquery.masonry.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jquery.masonry.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/app-static-content/js/jquery-ui/v1.13.2/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\jquery-ui\v1.13.2\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap/popover.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap\popover.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap/tab.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap\tab.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap/collapse.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap\collapse.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap/button.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap\button.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap/confirm-bootstrap.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap\confirm-bootstrap.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/flot/jquery.flot.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\flot\jquery.flot.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/flot/jquery.flot.stack.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\flot\jquery.flot.stack.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/flot/jquery.flot.resize.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\flot\jquery.flot.resize.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/flot/jquery.flot.time.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\flot\jquery.flot.time.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/flot/raphael.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\flot\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/Chart.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/jquery.knob.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jquery.knob.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/pickr/colorPickr.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\pickr\colorPickr.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/pickr/colorPickrEM5.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\pickr\colorPickrEM5.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/flot/jquery.flot.curvedlines.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\flot\jquery.flot.curvedlines.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/be-evolution-chart.js?v=20190801
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\be-evolution-chart.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/wordcloud2.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\wordcloud2.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/moment.min.js?v=20150727
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\moment.min.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/daterangepicker.min.js?v=20190812
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\daterangepicker.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/app-static-content/js/bootstrap-datetimepicker/v4.7.14/bootstrap-datetimepicker.js?v=20230203
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\bootstrap-datetimepicker\v4.7.14\bootstrap-datetimepicker.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/fullcalendar.min.js?v=20190101
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\fullcalendar.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/lang-all.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\lang-all.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/app-static-content/js/DataTables/v1.13.2/datatables.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\DataTables\v1.13.2\datatables.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/app-static-content/js/CellEdit/v1.0.19/dataTables.cellEdit.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\app-static-content\js\CellEdit\v1.0.19\dataTables.cellEdit.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/jqvmap/jquery.vmap.packed.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jqvmap\jquery.vmap.packed.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/jqvmap/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jqvmap\jquery.vmap.world.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/lib/mervick-emojionearea/emojionearea.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\lib\mervick-emojionearea\emojionearea.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/jquery.textcomplete.min.js?v=20150727
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jquery.textcomplete.min.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/jqvmap/countryCodes_en.js?v=20221121
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jqvmap\countryCodes_en.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/jqvmap/languageCodes_en.js?v=20180328
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jqvmap\languageCodes_en.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/jqvmap/languageIDCodeGoogle_en.js?v=20180338
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jqvmap\languageIDCodeGoogle_en.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/js/jqvmap/facebookEvents.js?v=20180338
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jqvmap\facebookEvents.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap-switch.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap-switch.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/twitter-text-3.0.1.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\twitter-text-3.0.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/collagePlus/jquery.collagePlus.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\collagePlus\jquery.collagePlus.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/slick.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/vague.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\vague.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/vibrant.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\vibrant.min.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/bootstrap-multiselect.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\bootstrap-multiselect.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/jquery.resizecrop.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jquery.resizecrop.js
+Content Type: application/javascript
+
+Uri: https://static.metricool.com/resources/js/jstz.min.js
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\js\jstz.min.js
+Content Type: application/javascript
+
+Uri: https://app.metricool.com/resources/img/background-login-laptops.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\background-login-laptops.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-WFSNRFB
+File Name: C:\Downloaded Web Sites\app.metricool.com\ns.html
+Content Type: text/html
+
+Uri: https://static.metricool.com/resources/img/report-logo-metricool.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\report-logo-metricool.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/sign-in/account_recovery.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\sign-in\account_recovery.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/sign-in/account_reactivate.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\sign-in\account_reactivate.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/sign-in/mail_confirmation.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\sign-in\mail_confirmation.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold-webfont.eot
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold-webfont.woff
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold-webfont.svg
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold_inline-webfont.eot
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold_inline-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold_inline-webfont.eot?
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold_inline-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold_inline-webfont.woff
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold_inline-webfont.woff
+Content Type: font/woff
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold_inline-webfont.ttf
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold_inline-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://app.metricool.com/resources/fonts/rex_bold_inline-webfont.svg
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_bold_inline-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://app.metricool.com/resources/fonts/rex_light-webfont.eot
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://app.metricool.com/resources/fonts/rex_light-webfont.eot?
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://app.metricool.com/resources/fonts/rex_light-webfont.woff
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_light-webfont.woff
+Content Type: font/woff
+
+Uri: https://app.metricool.com/resources/fonts/rex_light-webfont.ttf
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_light-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://app.metricool.com/resources/fonts/rex_light-webfont.svg
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\fonts\rex_light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://staticapp.metricool.com/resources/img/social/gmbBN2.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\social\gmbBN2.png
+Content Type: image/png
+
+Uri: https://staticapp.metricool.com/resources/img/social/gmb.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\social\gmb.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/css/customStyles/register.css?v=20230411
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\css\customStyles\register.css
+Content Type: text/css
+
+Uri: https://metricool.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\app.metricool.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://metricool.com/legal-terms/
+File Name: C:\Downloaded Web Sites\app.metricool.com\legal-terms\index.htm
+Content Type: text/html
+
+Uri: https://app.metricool.com/resources/img/header-color-bar.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\header-color-bar.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/report-logo-metricool.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\report-logo-metricool-1.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/world.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\world.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/planner.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\planner.png
+Content Type: image/png
+
+Uri: https://app.metricool.com/resources/img/graphic.png
+File Name: C:\Downloaded Web Sites\app.metricool.com\resources\img\graphic.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/metricool/
+File Name: C:\Downloaded Web Sites\app.metricool.com\metricool\index.htm
+Content Type: text/html
+

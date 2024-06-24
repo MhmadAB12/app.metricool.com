@@ -1,0 +1,925 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+
+
+
+
+
+<link rel="icon" href="resources/img/metricool-logo.svg" type="image/svg+xml">
+<link rel="icon" href="resources/img/metricool-squared-GRIS.png" type="image/png">
+
+<link href="https://app.metricool.com/resources/logo_rectangulo.jpg" rel="image_src">
+
+<title>Register</title>
+</head>
+
+<style>
+div {
+    zborder: 1px solid red;
+}
+</style>
+
+<body id="app">
+
+	<div id="wrap">
+        <img src="resources/img/header-color-bar.png" width="100%" style="vertical-align: top;">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- 
+
+   -->
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlsXNZ7Itz-ZRq5VsHA5tY0Ow-jgPY4u0&libraries=visualization"></script>
+
+
+<script src="app-static-content/js/jquery/v3.6.3/jquery-3.6.3.js"></script>
+<script src="app-static-content/js/jquery/v3.6.3/jquery-migrate-3.4.0.js"></script>
+
+<script src="resources/js/jquery.masonry.js"></script>
+
+<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk&libraries=visualization&callback=initMap" async deferdw></script>-->
+<!-- jquery ui -->
+<link rel="stylesheet" type="text/css" href="app-static-content/js/jquery-ui/v1.13.2/themes/black-tie/theme.css">
+<link rel="stylesheet" type="text/css" href="app-static-content/js/jquery-ui/v1.13.2/themes/black-tie/jquery-ui.min.css">
+<script src="app-static-content/js/jquery-ui/v1.13.2/jquery-ui.min.js"></script>
+
+<script src="resources/js/bootstrap/bootstrap.min.js"></script>
+<script src="resources/js/bootstrap/popover.js"></script>
+<script src="resources/js/bootstrap/tab.js"></script>
+<script src="resources/js/bootstrap/collapse.js"></script>
+<script src="resources/js/bootstrap/button.js"></script>
+
+<script src="resources/js/bootstrap/confirm-bootstrap.js"></script>
+
+<link class="jsbin" href="resources/css/awesome-bootstrap-checkbox.css" rel="stylesheet" type="text/css">
+
+
+<!-- minigrï¿½ficas 
+<script type="text/javascript" src="https://app.metricool.com/resources/js/jquery.sparkline.js"></script>
+-->
+
+
+<!-- charts -->
+<script src="resources/js/flot/jquery.flot.min.js"></script>
+<!-- <script src="https://app.metricool.com/resources/js/flot/jquery.flot.pie.min.js"></script> -->
+<script src="resources/js/flot/jquery.flot.stack.min.js"></script>
+<script src="resources/js/flot/jquery.flot.resize.min.js"></script>
+<script src="resources/js/flot/jquery.flot.time.min.js"></script>
+<script src="resources/js/flot/raphael.min.js"></script>
+<!-- <script src="https://app.metricool.com/resources/js/colorPicker.js"></script> -->
+<script src="resources/js/Chart.min.js"></script>
+<script src="resources/js/jquery.knob.js"></script>
+<!-- -->
+
+
+<link rel="stylesheet" type="text/css" href="resources/css/colorPicker.css">
+
+<script src="resources/js/pickr/colorPickr.js"></script>
+<script src="resources/js/pickr/colorPickrEM5.js"></script>
+
+<script src="resources/js/flot/jquery.flot.curvedlines.js"></script>
+
+<script src="resources/js/be-evolution-chart.js?v=20190801"></script>
+
+<!-- Keyword Cloud -->
+<script src="resources/js/wordcloud2.js"></script>
+
+<!-- daterangepicker -->
+<link rel="stylesheet" type="text/css" href="resources/css/daterangepicker.css?v=20190812">
+<script type="text/javascript" charset="utf-8" src="resources/js/moment.min.js?v=20150727"></script>
+<script type="text/javascript" charset="utf-8" src="resources/js/daterangepicker.min.js?v=20190812"></script>
+
+<!-- datetime picker -->
+<link rel="stylesheet" type="text/css" href="app-static-content/js/bootstrap-datetimepicker/v4.7.14/bootstrap-datetimepicker.css?v=20230203">
+<script src="app-static-content/js/bootstrap-datetimepicker/v4.7.14/bootstrap-datetimepicker.js?v=20230203"></script>
+
+<!-- calendar -->
+<link rel="stylesheet" href="resources/css/fullcalendar.min.css?v=20190101">
+<link rel="stylesheet" media='print' href="resources/css/fullcalendar.print.css">
+<script src="resources/js/fullcalendar.min.js?v=20190101"></script>
+<script src="resources/js/lang-all.js" charset="UTF-8"></script>
+
+
+<link rel="stylesheet" type="text/css" href="resources/css/bootstrap.min.css">
+<!-- <link rel="stylesheet" type="text/css" href="https://app.metricool.com/resources/css/bootstrap-theme.min.css">-->  
+<link rel="stylesheet" type="text/css" href="resources/css/social-buttons.css?v=20230810">
+
+<link rel="stylesheet" href="app-static-content/fonts/fontawesome-pro-6.4.2-web/css/all.min.css">
+
+<!-- <link rel="stylesheet" type="text/css" href="https://app.metricool.com/resources/css/colorPicker.css"> -->
+
+
+<!--  tabla ajax -->
+<link rel="stylesheet" href="app-static-content/js/DataTables/v1.13.2/datatables.min.css">
+<script type="text/javascript" src="app-static-content/js/DataTables/v1.13.2/datatables.min.js"></script>
+<script type="text/javascript" src="app-static-content/js/CellEdit/v1.0.19/dataTables.cellEdit.js"></script>
+
+
+<!-- Map -->
+<link href="resources/css/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
+<script src="resources/js/jqvmap/jquery.vmap.packed.js" type="text/javascript"></script>
+<script src="resources/js/jqvmap/jquery.vmap.world.js" type="text/javascript"></script>
+
+
+<!--  emojis 
+<link href="https://app.metricool.com/resources/lib/emoji-picker/css/emoji.css" media="screen" rel="stylesheet" type="text/css" /> 
+<script src="https://app.metricool.com/resources/lib/emoji-picker/js/config.js" type="text/javascript"></script>
+<script src="https://app.metricool.com/resources/lib/emoji-picker/js/util.js" type="text/javascript"></script>
+<script src="https://app.metricool.com/resources/lib/emoji-picker/js/jquery.emojiarea.js" type="text/javascript"></script>
+<script src="https://app.metricool.com/resources/lib/emoji-picker/js/emoji-picker.js" type="text/javascript"></script>
+-->
+<link href="resources/lib/mervick-emojionearea/emojionearea.min.css" media="screen" rel="stylesheet" type="text/css"> 
+<script src="resources/lib/mervick-emojionearea/emojionearea.js" type="text/javascript"></script>
+
+<!-- Autocomplete with suggestions -->
+<script src="resources/js/jquery.textcomplete.min.js?v=20150727"></script>
+<link rel="stylesheet" type="text/css" href="resources/css/jquery.textcomplete.css">
+
+
+
+
+<script src="resources/js/jqvmap/countryCodes_en.js?v=20221121" type="text/javascript"></script>
+<script src="resources/js/jqvmap/languageCodes_en.js?v=20180328" type="text/javascript"></script>
+<script src="resources/js/jqvmap/languageIDCodeGoogle_en.js?v=20180338" type="text/javascript"></script>
+<script src="resources/js/jqvmap/facebookEvents.js?v=20180338" type="text/javascript"></script>
+
+
+
+<!-- Switch de conexiones con redes -->
+<script src="resources/js/bootstrap-switch.min.js"></script>
+<link rel="stylesheet" type="text/css" href="resources/css/bootstrap-switch.min.css">
+
+
+
+<!--  pagination 
+<link rel="stylesheet" type="text/css" href="https://app.metricool.com/resources/css/jqpagination.css">
+<script type="text/javascript" charset="utf-8" src="https://app.metricool.com/resources/js/jquery.jqpagination.min.js"></script>
+-->
+
+<!-- wyswig -->
+<!-- 
+<link rel="stylesheet" type="text/css" href="https://app.metricool.com/resources/js/wyswig/bootstrap-wysihtml5-0.0.2.css"></link>
+<script src="https://app.metricool.com/resources/js/wyswig/wysihtml5-0.3.0.min.js"></script>
+<script src="https://app.metricool.com/resources/js/wyswig/bootstrap-wysihtml5-0.0.2.min.js"></script>
+<script src="https://app.metricool.com/resources/js/wyswig/bootstrap-wysihtml5.es-ES.js"></script>
+ -->
+
+
+<!-- Twitter text counter -->
+<script src="resources/js/twitter-text-3.0.1.min.js"></script>
+
+<link href='css.css?family=Source+Code+Pro:200,300,400,500,600,700,900' rel='stylesheet' type='text/css'>
+<link href="css-1.css?family=Montserrat:500,700,900" rel="stylesheet">
+<link href="css-2.css?family=Inter" rel="stylesheet">
+<link href="css-3.css?family=Nunito" rel="stylesheet">
+ 
+<!-- scrollto 
+<script type='text/javascript' src="https://app.metricool.com/resources/js/jquery.scrollTo-min.js"></script>
+-->
+
+
+<!-- Carga lazy de imagenes 
+<script src="https://app.metricool.com/resources/js/jail.min.js"></script>
+-->
+
+<!-- Pictures collage -->
+<script src="resources/js/collagePlus/jquery.collagePlus.min.js"></script>
+<link rel="stylesheet" type="text/css" href="resources/js/collagePlus/css/transitions.css">
+
+<!-- Carousel -->
+<link rel="stylesheet" type="text/css" href="resources/css/slick.css">
+<link rel="stylesheet" type="text/css" href="resources/css/slick-theme.css">
+<script type="text/javascript" src="resources/js/slick.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="resources/fonts/HelveticaNeue.css">
+<link rel="stylesheet" type="text/css" href="resources/css/custom.css?v=20230125">
+
+
+<script type="application/javascript" src="resources/js/vague.js"></script>
+<script type="application/javascript" src="resources/js/vibrant.min.js"></script>
+
+<!-- Multiple Select -->
+<script type="text/javascript" src="resources/js/bootstrap-multiselect.js"></script>
+<link rel="stylesheet" href="resources/css/bootstrap-multiselect.css" type="text/css">
+
+<!-- image crop and resize -->
+<script type="application/javascript" src="resources/js/jquery.resizecrop.js"></script>
+
+<!-- timezone -->
+<script type="application/javascript" src="resources/js/jstz.min.js"></script>
+<script>
+var tz = jstz.determine();
+
+function createCookie(name, value, days) {
+    var expires;
+
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toGMTString();
+    } else {
+        expires = "";
+    }
+    document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/";
+}
+
+function readCookie(name) {
+    var nameEQ = encodeURIComponent(name) + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) === 0) return decodeURIComponent(c.substring(nameEQ.length, c.length));
+    }
+    return null;
+}
+
+function eraseCookie(name) {
+    createCookie(name, "", -1);
+}
+
+function convertHex(hex,opacity){
+    hex = hex.replace('#','');
+    r = parseInt(hex.substring(0,2), 16);
+    g = parseInt(hex.substring(2,4), 16);
+    b = parseInt(hex.substring(4,6), 16);
+    result = 'rgba('+r+','+g+','+b+','+opacity/100+')';
+    return result;
+}
+
+function imageIconMenu(){
+
+
+    $(document).on("click",function(e) {
+        $(".dropdown-toggle .adwordsAux:first").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+    });
+    $(".profile-card-active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+    $("#menu li.active").hover(function() {
+        $("#menu li.active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+    });
+
+    $("#menu li.active").on( "mouseleave", function() {
+        $("#menu li.active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+    });
+    $("#menu li.active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+    $(".profile-card").hover(function(e){
+        if(!($(this).hasClass('profile-card-active'))){
+            $(this).find('.adwordsAux').attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+        }
+    }, function() {
+        if(!($(this).hasClass('profile-card-active'))){
+            $(this).find('.adwordsAux').attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+        }
+    });
+
+    /**/
+    $(document).on("click",function(e) {
+	$(".dropdown-toggle .gmbAux:first").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+    });
+    $(".profile-card-active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+    $("#menu li.active").hover(function() {
+        $("#menu li.active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+    });
+
+    $("#menu li.active").on( "mouseleave", function() {
+        $("#menu li.active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+    });
+    $("#menu li.active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+    $(".profile-card").hover(function(e){
+        if(!($(this).hasClass('profile-card-active'))){
+            $(this).find('.gmbAux').attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+        }
+    }, function() {
+        if(!($(this).hasClass('profile-card-active'))){
+            $(this).find('.gmbAux').attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+        }
+    });
+    /**/
+$(".dropdown").hover(function() {
+	if (!$(".dropdown").hasClass('open')) {
+	$(".dropdown .adwordsAux:first").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN3.png');
+	$(".dropdown .gmbAux:first").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN3.png');
+    
+	}
+
+});
+
+$(".dropdown").on( "mouseleave", function() {
+	if (!$(".dropdown").hasClass('open')) {
+	$(".dropdown-toggle .adwordsAux:first").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+	$(".dropdown-toggle .gmbAux:first").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+
+	}	
+});
+
+$(document).on("click",function(e) {
+	$(".dropdown-toggle .adwordsAux:first").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+	$(".dropdown-toggle .gmbAux:first").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+
+});
+
+
+$("#menu li.active").hover(function() {
+	$("#menu li.active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+	$("#menu li.active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+
+});
+
+$("#menu li.active").on( "mouseleave", function() {
+	$("#menu li.active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+	$("#menu li.active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+
+
+});
+
+$("#menu li.active .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+$("#menu li.active .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+
+$(".dropdown-toggle").click(function() {
+
+
+	if ($(".dropdown").hasClass('open')){
+		$(".dropdown-toggle .adwordsAux:first").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+		$(".dropdown-toggle .gmbAux:first").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+
+
+	} else {
+		$(".dropdown-toggle .adwordsAux:first").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN2.png');
+		$(".dropdown-toggle .gmbAux:first").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN2.png');
+
+	}
+	$("#navbar-blogs-list .adwordsAux").attr('src', 'https://static.metricool.com/resources/img/social/adwordsBN.png');
+	$("#navbar-blogs-list .gmbAux").attr('src', 'https://static.metricool.com/resources/img/social/gmbBN.png');
+
+});
+    
+}
+
+function base64toFile(imgUrl) {
+	return new Promise(function(resolve, reject) {
+		const convertBase64ToFile = function (image) {
+			const byteString = atob(imgUrl.split(',')[1]);
+			const ab = new ArrayBuffer(byteString.length);
+			const ia = new Uint8Array(ab);
+			for (let i = 0; i < byteString.length; i += 1) {
+				ia[i] = byteString.charCodeAt(i);
+			}
+			const type = image.split(';')[0].split('/')[1];
+
+			if (type.indexOf("png") !== -1) extension = "png"
+			else if (type.indexOf("jpg") !== -1 || type.indexOf("jpeg") !== -1)
+				extension = "jpg"
+			else extension = "tiff";
+			const newBlob = new Blob([ab], {
+				type: 'image/' + extension,
+			});
+			return newBlob;
+        };
+        if(imgUrl.includes("data:image/png")){
+		    var newFile = new File([convertBase64ToFile(imgUrl)], 'auxImage.png', { type: 'image' + extension, lastModifiedDate: new Date() });
+        } else {
+		    var newFile = new File([convertBase64ToFile(imgUrl)], 'auxImage.jpeg', { type: 'image' + extension, lastModifiedDate: new Date() }); 
+        }
+
+		resolve(newFile)
+	})
+	.then(function(result) {
+		return result
+	})
+}
+</script>
+
+<script>
+	moment.locale('en');
+</script>
+
+		
+
+
+
+
+
+
+<div class="container" style="padding-top:0px;">
+
+
+</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    if (typeof dataLayer === 'undefined') {
+        dataLayer = [];
+    }
+    
+</script>
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFSNRFB');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="ns.html?id=GTM-WFSNRFB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<link rel="stylesheet" type="text/css" href="resources/css/customStyles/register.css?v=20230411">
+
+<div style="width: 100%; height: 100%; display: inline-block;">
+<div id="registerMainDiv" class="registerPage col-md-12" style="display: flex; flex-direction: column;">
+	<div class="col-sm-12 hidden-sm hidden-md hidden-xl hidden-lg" style="padding: 0px 0px 20px;">
+		<a class="login-brand" style="padding: 0px;" href="index-1.htm">
+			<img class="img-responsive" style="max-height: 45px; margin-bottom: 25px;" alt="Metricool" src="resources/img/report-logo-metricool-1.png">
+		</a>
+	</div>
+	<div class="col-xs-12" style="display: flex; align-items: top; justify-content: center;">
+		<div class="col-sm-6 hidden-xs register-info" style="max-width: 510px; font-size: 18px; margin-right: 40px; display: flex; flex-direction: column;">
+			<div class="col-sm-12" style="padding-bottom: 40px;">
+				<a class="login-brand" style="padding: 0px;" href="index-1.htm">
+					<img style="max-height: 45px; margin-left: -50px; margin-bottom: 25px;" alt="Metricool" src="resources/img/report-logo-metricool.png">
+				</a>
+			</div>
+            
+            <div class="col-sm-12 registerImageBlockShadow">
+                <div class="col-sm-12 registerImageBlock">
+                    <img class="img-responsive" alt="Metricool" src="resources/img/world.png">
+                </div>
+            </div>
+            <div class="col-sm-12 registerTextblock">
+                The social media management tool chosen by
+                <span class="registerTextblockHighlight"><b>over 1 million people</b></span>
+                around the world.
+            </div>
+            
+            <div class="col-sm-12 registerImageBlockShadow">
+                <div class="col-sm-12 registerImageBlock">
+                    <img class="img-responsive" alt="Metricool" src="resources/img/planner.png">
+                </div>
+            </div>
+            <div class="col-sm-12 registerTextblock">
+                Start
+                <span class="registerTextblockHighlight">saving time,</span>
+                <span class="registerTextblockHighlight"><b>planning all your networks</b></span>
+                from the same place.
+            </div>
+            
+            <div class="col-sm-12 registerImageBlockShadow">
+                <div class="col-sm-12 registerImageBlock">
+                    <img class="img-responsive" alt="Metricool" src="resources/img/graphic.png">
+                </div>
+            </div>
+            <div class="col-sm-12 registerTextblock">
+                <span class="registerTextblockHighlight"><b>Analyze your evolution,</b></span>
+                that of your competitors and perfect your social strategy.
+            </div>
+
+		</div>
+        
+        
+		<div class="col-sm-6" style="height: 100%; display: flex; align-items: center; justify-content: end;">
+			<div style="max-width: 510px;margin: 0 auto;">
+				<h1 class="modal-title register-frame-header">Create your free account, now</h1>
+				<h2 class="modal-title register-frame-header-2">Free is free. forever and <b>no credit card. </b></h2>
+
+				<div class="row" style="max-width: 410px; margin: 0 auto;">
+					<form action="registerAction" method="POST" style="max-width: 510px; margin: 0 auto;" id="registrationForm">
+						<fieldset>
+							<div class="" style="float:left;width:100%;">
+								<div class="form-group" id="boteDeMielDiv" style="visibility: hidden; max-height: 0px;">
+									<label for="boteDeMiel">Leave empty</label>
+									<input type="text" id="jkkjoiotg" name="jkkjoiotg" value="" class="form-control">
+									<input type="email" id="mail" name="mail" class="form-control">
+									<input type="password" id="password" name="password" class="form-control">
+								</div> 
+								
+								<div class="form-group"> 
+                                    <div class="register-textbox-header">
+                                        Email
+                                    </div>
+                                    <div style="font-size: 11px; text-align: right;">
+                                        <input type="email" id="ihnmfelkg" name="ihnmfelkg" class="register-textbox" placeholder="Enter your email" required="">
+                                    </div>
+								</div>
+                                
+								<div class="form-group">
+                                    <div class="register-textbox-header">
+                                        Password
+                                    </div>
+                                    <div style="font-size: 11px; text-align: right;">
+                                        <input type="password" id="jkkjklfg" name="jkkjklfg" class="register-textbox" placeholder="Write your password here" required="">
+                                        <input type="hidden" id="timezone" name="timezone">
+                                        <input type="hidden" id="_sl_csrf" name="_sl_csrf" value="kC26lRYaEmGQ2g8wH045Sljap0qs1tvoh6QWFZlmt77sI9fRYB35umvfoyy0e6gWk">
+                                    </div>
+								</div>
+							</div>
+								<div style="font-size: 10px; color: #000000;">
+									<p>
+										Metricool Software, S.L. is responsible for the processing of your data, for the purpose of providing Metricool services and sending you communications about Metricool news and/or promotions, unless you object to this at any time. You have the right of access, rectification, deletion, limitation, opposition to processing and portability. You can exercise your rights at <a style="color: #ee5b91; font-weight: bold !important;" href='mailto: legal@metricool.com'>legal@metricool.com</a>.
+										More information in the <a target="_blank" style="color: #ee5b91; font-weight: bold !important;" href='privacy-policy/index.htm'>Privacy policy</a>
+									</p>
+								</div>
+								<div style="font-size: 10px; color: #000000;">
+									<label style="font-weight: normal; padding-top: 10px;">
+										<input type="checkbox" id="legalTerms" value="" required="" style="margin-right: 4px;"> I have read and accept the <a target='_blank' style="color: #ee5b91; font-weight: bold !important;" href='legal-terms/index.htm'>Legal Terms</a> by Metricool.
+									</label>
+									<label style="font-weight: normal; padding-top: 10px;">
+										<input type="checkbox" id="newsletters" name="newsletters" value="false" style="margin-right: 4px;"> I do not wish to receive communications about news and/or promotions from Metricool Software.
+									</label>
+								</div>
+
+								<div class="register-button-container">
+                                <button class="buttonRegister" type="submit" id="registrationFormSubmit">Let's go!<i class="fa fa-arrow-right" style="font-size: 14px; margin-left: 6px;"></i></button>
+                            </div>
+						</fieldset>
+					</form>
+				</div>
+
+
+                <!--  or -->
+                <div class="row" style="margin-top: 20px; margin-bottom: 20px; text-align: center;">
+                    <div class="line"></div>
+                    <div style="display:inline-block; color:#000000; font-weight: bold; padding: 0 10px; text-align: center;">or</div>
+                    <div class="line"></div>
+                </div>
+
+                <!-- facebook -->
+                <div class="col-md-12" style="margin-bottom: 40px; padding: 0;">
+                    <form role="form" id="facebookConnectForm" action="socialConnection" method="post">
+                        <div class="text-center" style="display: flex; justify-content: center;">
+                            <button class="btn btn-facebook-login" type="submit" id="facebookConnectFormSubmit" style="width: 225px; white-space: normal; display: flex; justify-content: center; padding: 12px 22px;">
+                                 Continue with Facebook<i class="fa-brands fa-facebook" style="font-size: 20px; margin-left: 6px;"></i>
+                            </button>
+                            <input type="hidden" name="from" value="facebook">
+                            <input type="hidden" name="loginMode" value="true">
+                            <input type="hidden" id="_sl_csrf" name="_sl_csrf" value="kC26lRYaEmGQ2g8wH045Sljap0qs1tvoh6QWFZlmt77sI9fRYB35umvfoyy0e6gWk">
+                        </div>
+                    </form>
+                </div>
+                
+                
+                <div style="text-align:center">
+                    <p>If you already have an account <a href="index.htm" style="color:#ee5b91; font-weight: bold !important;"> log in.</a></p>
+                </div>
+                
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="resources/css/customStyles/loading.css?v=20230411">
+
+
+
+
+
+
+
+<script>
+		$("#registrationForm").keypress(function(e) {
+		    if ((e.keyCode == 13) && (e.target.type != "textarea")) {
+		      e.preventDefault();
+		      $(this).submit();
+		    }
+		});
+		
+	    let tzname = Intl.DateTimeFormat().resolvedOptions().timeZone;
+	    if (tzname == undefined || tzname == null || tzname == "") {
+	        tzname = tz.name();
+	    }
+		
+		$(document).ready(function() {
+			$("#timezone").val(tzname);
+		});
+</script>
+
+	</div>
+    
+    <div style="display:none;">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+	<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="15b0c028-f728-4a4f-add2-7657188bddac";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+
+
+		
+		
+
+
+		<script type="application/javascript">function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"e0351fdb42aca59d3ff86c86688a5e76"})});</script>
+		
+		
+
+
+
+
+
+<script type="application/javascript">
+function formatThousand(param){
+	var number = new String(param);
+	number = number.replace(/\./g, ''); //quita todos los puntos de la cadena
+	var result = '';
+	while( number.length > 3 ){
+		result = '.' + number.substr(number.length - 3) + result;
+		number = number.substring(0, number.length - 3);
+	}
+	result = number + result;
+	return result;
+}
+
+var sort_by = function(field, reverse, primer){
+
+   var key = primer ? 
+       function(x) {return primer(x[field])} : 
+       function(x) {return x[field]};
+
+   reverse = [-1, 1][+!!reverse];
+
+   return function (a, b) {
+       return a = key(a), b = key(b), reverse * ((a > b) - (b > a));
+     } 
+
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="resources/css/customStyles/footer.css?v=20230810">
+<div id="footer" class="footer">
+	<div class="container footer-flex-container">
+		<div style="display: flex; flex-direction: column; width: 100%">
+			<span><a target="_blank" href="legal-terms/index.htm">Conditions & Privacy</a></span>
+
+			<div class="text-muted">
+				Metricool is a registered trademark with all rights reserved.
+			</div>
+		</div>
+		<div style="width: 100%; display: flex; flex-direction:row; justify-content: flex-end; align-items: center">
+
+
+		<a target='_blank' href="https://twitter.com/Metricool_es"><i class="fa-brands fa-x-twitter fa-fw footer-social-button"></i></a>
+
+		<a target='_blank' href="metricool.es.html"><i class="fa-brands fa-facebook fa-fw footer-social-button"></i></a>
+
+		<a target='_blank' href="metricool/index.htm"><i class="fa-brands fa-instagram fa-fw footer-social-button"></i></a>
+
+		<a target='_blank' href="@metricool_es.html"><i class="fa-brands fa-tiktok fa-fw footer-social-button inherit-color"></i></a>
+
+		<a target='_blank' href="@metricool_es-1.html"><i class="fa-brands fa-youtube fa-fw footer-social-button"></i></a>
+
+		<a target='_blank' href="metricool_es/index.htm"><i class="fa-brands fa-pinterest fa-fw footer-social-button"></i></a>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+	
+	
+	<div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModal" aria-hidden="true">
+  		<div class="modal-dialog">
+    		<div class="modal-content">
+    			<form id="contactForm" role="form" action="feedback" method="post">
+					<fieldset>
+						<div class="modal-header">
+							<a class="close" data-dismiss="modal">&times;</a>
+		        			<h4 class="modal-title">We want to get your feedback</h4>
+						</div>
+						<div class="modal-body">
+							<input type="hidden" id="_sl_csrf" name="_sl_csrf" value="qruazBYiDtiWyXwTFVFmmt8HThaZAViSUM18Z5QCtMhdcsQCFWzd2qwZM">
+							<input type="hidden" id="subject" name="subject" value="contact">
+						    <div class="form-group">
+						    	<label for="name">Your name</label>
+								<input type="text" class="form-control" name="name" id="name" value="" placeholder="Your name">
+						    </div>
+						    <div class="form-group">
+						    	<label for="mail">Your email</label>
+								<input type="text" class="form-control" name="mail" id="mail" value="" placeholder="Your email">
+						    </div>
+						    <div class="form-group">
+						    	<label for="message">What can we do for you?</label>
+								<textarea name="message" class="form-control" id="message" rows="8"></textarea>
+						    </div>
+						    <div id="aaaabbbbDiv">
+						    	<label for="aaaabbbb"></label>
+						    	<input type="text" name="aaaabbbb" id="aaaabbbb">
+						    </div>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+		        			<button type="submit" class="btn btn-default" id="contactFormSubmit">Send</button>			
+						</div>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+
+	<script type="application/javascript">
+	
+		$('#contactModal').on('shown.bs.modal', function () {
+			$('#aaaabbbbDiv').hide();
+		});
+		$("#contactForm").keypress(function(e) {
+		    if ((e.keyCode == 13) && (e.target.type != "textarea")) {
+		      e.preventDefault();
+		      $(this).submit();
+		    }
+		});
+	</script>
+	
+	
+	<div class="modal fade" id="modalFacebookError">
+  		<div class="modal-dialog">
+    		<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        			<h4 class="modal-title">Error</h4>
+				</div>
+				<div class="modal-body">
+					<p>The connection established with Facebook has been canceled. You need to re-authorize the connection. Sorry for the inconvenience.</p>
+				</div>
+				<div class="modal-footer">
+        			<button class="btn btn-default btn-primary" data-dismiss="modal">Ok</button>			
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	
+
+	
+
+
+<div class="modal fade" id="cookiesDisabledModal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<a class="close" data-dismiss="modal">&times;</a>
+				<h4 class="modal-title">Your browser has cookies disabled</h4>
+			</div>
+			<div class="modal-body messageModalBad">
+				<p>We were unable to write cookies in your browser. It is possible that they are disabled. Please enable cookies to get all our functionalities.</p>
+				<a href="https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">More information</a>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary" data-dismiss="modal">Ok</button>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="application/javascript">
+	$(document).ready(function() {
+		if(isCookieDisabled()) {
+			$('#cookiesDisabledModal').modal('show');
+		}
+	});
+
+	function isCookieDisabled(){
+		return navigator.cookieEnabled != true;
+	}
+</script>
+
+
+
+
+
+<script type="application/javascript">
+
+function connectionPopupTarget(formId) {
+
+    let mockPopup = {
+        close:function() {}
+    };
+    return mockPopup;
+
+}
+
+function refreshOpenerAndCloseConnectionPopup() {
+
+}
+$(document).ready(function() {
+    refreshOpenerAndCloseConnectionPopup();
+});
+</script>
+
+    </div>
+</body>
+</html>
